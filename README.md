@@ -8,7 +8,8 @@ I'm a data-scientist
 ✍️ In my free time, I blog writing as hobbies/side hustles <br>
 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion <br>
 ✉️ You can shoot me an email at aleks.gatskii@gmail.com! I'll try to respond as soon as I can <br>
-📄 Please have a look at my [resume](https://drive.google.com/drive/folders/1SlAu-lADQrbTaUfSuBKD1HPrKmfWPkEi?usp=sharing) for more details about me. I'm open to feedback and suggestions! 
+📄 Please have a look at my [resume](https://drive.google.com/drive/folders/1SlAu-lADQrbTaUfSuBKD1HPrKmfWPkEi?usp=sharing) for more details about me. I'm open to feedback and suggestions! <br>
+💼 [Portfolio](https://github.com/aleks-gatskii/Portfolio) – examples of completed projects
 
 ## 🛠️ Tech Stack
 
