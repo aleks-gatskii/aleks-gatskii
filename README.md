@@ -12,7 +12,6 @@ I'm a data-scientist
 💼 [Portfolio](https://github.com/aleks-gatskii/Portfolio) – examples of completed projects
 
 ## 🛠️ Tech Stack
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
@@ -23,3 +22,4 @@ I'm a data-scientist
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
           
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=In+theory,+theory+and+practice+are+inseparable;In+practice,+this+is+not+the+case)](https://git.io/typing-svg)
